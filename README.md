@@ -17,6 +17,7 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
+Developed by : POOJA A Register Number:212222240072
 ```
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
